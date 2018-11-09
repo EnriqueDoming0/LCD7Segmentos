@@ -108,11 +108,10 @@
     <TextView
         android:id="@+id/datos"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
+        android:layout_height="15dp"
         android:layout_marginTop="20dp"
         android:maxLength="8"
-        app:layout_constraintTop_toBottomOf="@+id/d"
-        tools:layout_editor_absoluteX="0dp" />
+        app:layout_constraintTop_toBottomOf="@+id/d"/>
 
         <Button
             android:id="@+id/Cero"
