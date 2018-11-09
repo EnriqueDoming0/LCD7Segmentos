@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LCD 7 Segmentos</string>
+    <string name="a">TextView</string>
+    <string name="textview">TextView</string>
+    <string name="_0">0</string>
+    <string name="_1">1</string>
+    <string name="borrar">Borrar</string>
+</resources>
